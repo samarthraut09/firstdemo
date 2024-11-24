@@ -1,3 +1,3 @@
 # firstdemo
 First Trail
-Auther - Samarth Raut
+Auther - Samarth Raut (Data Scientist)
